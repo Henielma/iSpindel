@@ -1,0 +1,22 @@
+Ter lering en vermaak een [url=https://3d-mechatronics.de/de/ispindel-diy-set-komplett_151.html]bouwpakket [/url]gekocht voor een iSpindel op basis van een experimenteerprint. 
+De [url=https://github.com/universam1/iSpindel/blob/master/docs/iSpindelbreadboard.md]Duitstalige handleiding[/url] is vooral in het begin een puzzel. Maar kan naast dit topic nog wel handig zijn. Het bouwpakket heb ik vooral aangeschaft om te ervaren hoe eenvoudig of lastig dit samenbouwen is. Eerlijk gezegd viel het me toch best tegen ondanks mijn jarenlange elektronica ervaring. Tevens was mijn doel om een wat uitgebreidere montagehandleiding te maken waarbij je minder zelf hoeft uit te vinden. Vandaar gaandeweg het samenbouwen foto's gemaakt. 
+
+Maak de sleuf waarin de print moet komen leeg. Hier zitten nog restanten in die nodig zijn voor de 3D printing techniek waarmee dit zwarte kunststof onderdeel gemaakt is. Tevens moet je de zesde dwarsligger eruit zagen omdat anders de dop niet goed op de petling kan. Zoals op de foto blijven er dan nog 5 over.
+
+Test of het zwarte kunststof deel helemaal in de petling past. Waarschijnlijk moet je van de schuine zijkant van het zwarte deel wat afschuren zodat deze niet wat smaller wordt en helemaal in de petling past. 
+
+Zaag met een babyzaagje of een ijzerzaag de bijgeleverde experimenteerprint op maat zodat deze goed in de sleuf past. Zorg dat je in de lengterichting 12 gaatjes op een rij hebt zoals op de foto. 
+
+[URL=http://www.wiki-hobbybrouwen.nl/uploads/pics/9d80b3225f3c4b0773357c0dffc50303.jpg][img width=800 height=450]http://www.wiki-hobbybrouwen.nl/uploads/pics/9d80b3225f3c4b0773357c0dffc50303.jpg[/img][/URL]
+Plaats de pennenrij in de experimenteerprint zoals op bovenstaande foto. Let op, voor het solderen moet je de pennen met een schroevendraaier of iets dergelijk helemaal door het plastic van de pennenrij duwen. Tussen de pennenrijen moeten 8 gaatjes op een rij vrij blijven. Zie de eerste foto. Soldeer nu de pennen vast. Let op dat ze goed rechtop staan. 
+
+[URL=http://www.wiki-hobbybrouwen.nl/uploads/pics/021b208d8ced5d1266e71f1829bd0d5a.jpg][img width=800 height=450]http://www.wiki-hobbybrouwen.nl/uploads/pics/021b208d8ced5d1266e71f1829bd0d5a.jpg[/img][/URL]
+Plaats de tegendeel van de pennenrij op de uitstekende pennen die je zojuist vastgesoldeerd hebt. Aan 1 zijde het tegendeel wat zelf weer lange pennen heeft en aan de andere zijde het tegendeel met korte pennen. Plaats hierop het Wemos D1 mini bord en soldeer deze vast. Knip hierna de vier lange pennen bij de tekst D2, D1, RX en TX af en laat de resterende vier pennen lang. Zie bovenstaande foto.
+
+[URL=http://www.wiki-hobbybrouwen.nl/uploads/pics/cc1f45b64a594d1f21838cb2bfc6704a.jpg][img width=800 height=450]http://www.wiki-hobbybrouwen.nl/uploads/pics/cc1f45b64a594d1f21838cb2bfc6704a.jpg[/img][/URL]
+Plaats het printje met de tilt sensor op de vier uitstekende pinnen zoals op bovenstaande foto. Zorg dat er 1,5 mm ruimte blijft tussen het Wemos bord en de tilt sensor. Dit kan je realiseren door voor het vastsolderen tijdelijk een stukje printplaat onder het tilt sensorprintje te leggen. Hierna verwijder je dit stukje printplaat weer. Knip het restant wat deze vier pennen nog uitsteken af. 
+
+[URL=http://www.wiki-hobbybrouwen.nl/uploads/#36e9dde7e2d5b49a81810ccb0a4c8103.jpg][img width=800 height=561]http://www.wiki-hobbybrouwen.nl/uploads/pics/36e9dde7e2d5b49a81810ccb0a4c8103.jpg[/img][/URL]
+Verwijder de kleine SMD LED zoals aangegeven door middel van de kleine rode rechthoek in bovenstaande foto. Dit om te voorkomen dat deze LED de accu snel ontlaad omdat deze LED continue oplicht.
+
+In de volgende post komt deel 2 van deze montage handleiding.
